@@ -19,14 +19,17 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Sam You
-email: samyouxyz@gmail.com
+email: samyou@hey.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write things I am not qualified to write about.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://samyou.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: samyouxyz
 github_username: samyrsd
+instagram_username: samyouxyz
 google_analytics: G-PVKTQ6B49X
+
+permalink: none
 
 # Build settings
 theme: minima

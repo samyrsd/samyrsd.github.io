@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-"Software is eating me."
+{%- include social.html -%}
