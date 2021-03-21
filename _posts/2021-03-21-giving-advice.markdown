@@ -48,7 +48,7 @@ Don't be lazy and expect the answer is there without putting in the work.
 
 Assuming you have all the information, it is still hard to reason when you are affected by anxiety, social pressure, group think, and other external influences. You believe that it is right to do it for yourself, but doesn't feel right to the group. These nudges cloud your reasonings and make you a worse decision maker. Remember that the only person who has all the information is YOU.
 
-You don't need "5 books you should that change your life" advice video. You just go and read the one you're interested in. Think for yourself and act on it.
+You don't need "5 books you should read that will change your life" advice video. You just go and read the one you're interested in. Think for yourself and act on it.
 
 <hr />
 <br />
