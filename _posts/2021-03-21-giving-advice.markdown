@@ -12,7 +12,7 @@ Advice is a piece of insight that people formulate through out their experience 
 
 ## Advice is subjective.
 
-If they are businessmen, they will advice you to optimize your life for money. If they are professors, they will advise you to optimize your life for knowledge. Things that work for them does not necessarily works for you. They have no idea what you are capable of, what is in your head, what your belief, what your passion is. Treating those advices as instruction is very dangerous. Because it can knock down your self-esteem and belief which would have been in fact the thing that you needed.
+If they are businessmen, they will advice you to optimize your life for money. If they are professors, they will advise you to optimize your life for knowledge. Things that work for them does not necessarily works for you. Sometimes, the people giving advice discourage you not to do something, because they fail in doing it themselve. They have no idea what you are capable of, what situation you are in, what your belief or what your passion is. Treating those advices as instruction is very dangerous. Because it can knock down your self-esteem and belief which would have been in fact the thing that you needed.
 
 ## The generation of advice consumption
 
