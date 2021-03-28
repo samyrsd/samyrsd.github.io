@@ -19,6 +19,10 @@ This is how I usually do when I come across a new concept.
   - Why does government exist? Individuals act on self-interest. The business of other people or public space is not their concern. Government exist to regulate individuals interest to make sure no one is cheating and everyone is happy.
 - Sometimes if you find it hard and time consuming to find the answer to why it exists, see point number 1.
 
+# 3. Knowledge tree
+
+- Figure out what is the smaller things needed to understand the new concept. Break that smaller things into smaller things into smaller things.
+
 ## When this does not work
 
 - This is what works for me. Doesn't mean it works for everyone.
